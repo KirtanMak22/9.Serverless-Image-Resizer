@@ -1,10 +1,10 @@
 # 9.Serverless-Image-Resizer
 
-•	Purpose: Automatically resize images when uploaded
+~ Purpose: Automatically resize images when uploaded
 
-•	AWS Services
-        AWS Lambda
-        Amazon S3
+~ AWS Services
+                AWS Lambda
+                Amazon S3
 
 S3 Buckets:
 <img width="1008" height="477" alt="1" src="https://github.com/user-attachments/assets/9addc853-2cd2-4d72-b114-639c6f8d9fe7" />
