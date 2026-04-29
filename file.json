@@ -1,0 +1,15 @@
+JSON code:
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "kirtan-original-uploads-unique"
+        },
+        "object": {
+          "key": "images.jpg"
+        }
+      }
+    }
+  ]
+}
